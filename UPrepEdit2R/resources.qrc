@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/UPrepEdit2R" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
