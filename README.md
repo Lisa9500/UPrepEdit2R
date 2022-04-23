@@ -3,10 +3,11 @@ QGIS plug-in for Stera_R
 
 # DEMO
 
+![UPrep_Edit_2R](https://user-images.githubusercontent.com/21374896/164844935-320bb206-ef8d-4a8e-9e1f-5f1d3a9d1e86.png)
 
 # Features
 
-
+Stera_Rで３次元都市モデルを作成するために，QGIS2において建築物のgeojsonファイルをCSVファイルに変換するプラグインです．
 
 # Requirement
 
@@ -18,6 +19,7 @@ C:\Users\ユーザー名\.qgis2\python\plugins にコピーして，QGISのメ�
 
 # Usage
 
+プラグインメニューからUPrep Edit 2Rを選ぶ，もしくはアイコンをクリックします．選択ボタンを押して，ファイルダイアログから建築物のgeojsonファイルを指定し，OKボタンを押します．
 
 # Note
 
